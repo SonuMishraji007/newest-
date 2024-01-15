@@ -1,0 +1,32 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cross": "^1.0.0",
+    "date-and-time": "^2.4.2",
+    "dotenv": "^16.0.3",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "js2xmlparser": "^5.0.0",
+    "json2csv": "^5.0.7",
+    "jsonwebtoken": "^9.0.0",
+    "lsof": "^0.1.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.0",
+    "uuidv4": "^6.2.13",
+    "xlsx": "^0.18.5"
+  }
+}

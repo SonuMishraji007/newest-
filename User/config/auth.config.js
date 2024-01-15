@@ -1,0 +1,3 @@
+module.exports = {
+    secret: "06lp5SSeRpm0XNzpfXvoSKEf9H1z19nLHEVZVlIpsmzjcW7MESlBCIR+r/auRFPWRo6VK3yLqxszoQz/Wsgt1eMbxW4FzHNiIl3TvATdnIlpqcHINEgTTNHjdPZHyqguLkPNRmoxcBP/OXhsmfOu5aal4QxfLU50dOstX1bL1x09oFNe6xfXh7qZwz5A30atZ+Zfv5IufizcCYsHQ/Z0Ukcwgu+oRxuh9WA/wuo2fIlxOoTzzR8Nywie4upwrK4SK8lcw4r8zzuiiPQhp4RychXY5pBIFl4f6VdFKWkMIGd3nzt6ocZOYh2tqgm3opRXy9DfaYPRJAiYoitwikk2HQ=="
+}
