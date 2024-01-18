@@ -23,7 +23,7 @@ var mysqlConnection = mysql.createPool({
     user: "kenimaster",
     password: "1hTC88limW60BKw4RZ4m",
     database: "Pointofsale",
-    mode:"loca",
+    mode:"local",
     // connectionLimit: 20, // increase the connection limit here
 });
 
